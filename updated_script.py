@@ -38,7 +38,7 @@ def run_update():
         return False
 
 if __name__ == "__main__":
-    current_version = "1.0"  # Uygulamanın mevcut sürümü
+    current_version = "1.2"  # Uygulamanın mevcut sürümü
     if check_for_updates(current_version):
         print("Yeni bir güncelleme mevcut.")
         if download_update():
