@@ -52,5 +52,3 @@ if __name__ == "__main__":
             print("Güncelleme indirilemedi.")
     else:
         print("Güncelleme mevcut değil veya mevcut sürüm zaten en güncel sürüm.") 
-
-asdasdasdasdsa
